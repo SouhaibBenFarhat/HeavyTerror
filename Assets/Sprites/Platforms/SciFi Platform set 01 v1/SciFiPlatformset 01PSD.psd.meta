@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: eb8999df0128f4102a6d830a7d305e33
+timeCreated: 1493789529
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SciFiPlatformset 01PSD_0
+    21300002: SciFiPlatformset 01PSD_1
+    21300004: SciFiPlatformset 01PSD_2
+    21300006: SciFiPlatformset 01PSD_3
+    21300008: SciFiPlatformset 01PSD_4
+    21300010: SciFiPlatformset 01PSD_5
+    21300012: SciFiPlatformset 01PSD_6
+    21300014: SciFiPlatformset 01PSD_7
+    21300016: SciFiPlatformset 01PSD_8
+    21300018: SciFiPlatformset 01PSD_9
+    21300020: SciFiPlatformset 01PSD_10
+    21300022: SciFiPlatformset 01PSD_11
+    21300024: SciFiPlatformset 01PSD_12
+    21300026: SciFiPlatformset 01PSD_13
+    21300028: SciFiPlatformset 01PSD_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 682
+        width: 201
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 682
+        width: 200
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_2
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 682
+        width: 201
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 965
+        width: 200
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 879
+        width: 139
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 834
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 819
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 350
+        width: 253
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 350
+        width: 253
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 536
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 538
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 453
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 453
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 453
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SciFiPlatformset 01PSD_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 8
+        width: 394
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
